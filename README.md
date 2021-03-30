@@ -14,17 +14,17 @@
 
 打开[搜狗词库](https://pinyin.sogou.com/dict/)网站下载 `.scel` 词库文件。
 
-![截屏2021-03-31上午12.36.57](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/截屏2021-03-31 上午12.36.57.png)
+![73Q9grfkH1stl4w](https://i.loli.net/2021/03/31/73Q9grfkH1stl4w.png)
 
 下载深蓝词库转换工具 [imewlconverter_Windows.zip](https://github.com/studyzy/imewlconverter/releases) 并打开。
 
-![截屏2021-03-31上午12.38.26](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/截屏2021-03-31 上午12.38.26.png)
+![5WEPg3Mw4fpyOiQ](https://i.loli.net/2021/03/31/5WEPg3Mw4fpyOiQ.png)
 
 点击 `…` 选择下载好的词库（可多选），再点击**打开**。
 
 > 注意：如果不显示词库，将右下角改为`所有格式`。
 
-![截屏2021-03-31上午12.40.04](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/截屏2021-03-31 上午12.40.04.png)
+![04](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/04.png)
 
 转出项选择【Rime中州韵】或【无拼音纯汉字】。
 
