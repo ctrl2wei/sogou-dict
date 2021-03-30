@@ -12,7 +12,7 @@
 
 ### 转换方法（如不显示图片，请开代理）
 
-打开[搜狗词库](https://pinyin.sogou.com/dict/)网站下载 `.scel` 词库文件。
+打开[搜狗词库](https://pinyin.sogou.com/dict/cate/index/167?rf=dictindex&pos=dict_rcmd)下载 `.scel` 文件。
 
 ![02](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/02.png)
 
