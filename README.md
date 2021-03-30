@@ -66,7 +66,7 @@ use_preset_vocabulary: false
 
 将文件重命名。
 
-![截屏2021-03-31上午1.04.23](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/截屏2021-03-31 上午1.04.23.png)
+![](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/截屏2021-03-31 上午1.04.23.png)
 
 用 `.dict.yaml` 为后缀，命名为 `luna_pinyin.sogou.dict.yaml` 完成词库转换。
 
