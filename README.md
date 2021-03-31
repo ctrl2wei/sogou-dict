@@ -68,9 +68,9 @@ use_preset_vocabulary: false
 
 ![01](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/01.png)
 
-用 `.dict.yaml` 为后缀，命名为 `luna_pinyin.sogou.dict.yaml` 完成词库转换。
+以 `.dict.yaml` 为后缀，命名为 `luna_pinyin.sogou.dict.yaml` 完成词库转换。
 
-> 注意：名称一定要和文件内**词库名**相同。
+> 注意：名称一定要和文件内 `name` 相同。
 
 ![2021-03-31-01.04.41.@2x](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/2021-03-31-01.04.41.@2x.png)
 
