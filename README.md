@@ -16,13 +16,11 @@
 
 ![04](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/04.png)
 
-转出项选择【Rime中州韵】或【无拼音纯汉字】。
+转出项选择【Rime中州韵】。
 
 ![08](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/08.png)
 
 编码类型选择 **拼音** 和 **MacOS**，点击**确定**。
-
-> 注意：如果转出项选择【无拼音纯汉字】则没有此步操作。
 
 ![05](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/05.png)
 
