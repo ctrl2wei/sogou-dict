@@ -1,16 +1,6 @@
-# Rime 鼠须管输入法｜搜狗词库和转换方法
+# 搜狗词库转换为 Rime 鼠须管词库方法
 
-### 已转换好词库
-
-包含[搜狗](https://pinyin.sogou.com/dict/cate/index/167?rf=dictindex&pos=dict_rcmd)十二个分类，约 150 万个词典。
-
-城市信息、自然科学、社会科学、工程应用、农林渔畜、医学医药
-
-电子游戏、艺术设计、生活百科、运动休闲、人文科学、娱乐休闲
-
-> 注：`★十二分类集合版★` 为上面十二个分类集合在一起。 
-
-### 转换方法（如果图片无法显示，请开代理）
+⚠️ 如果图片无法显示，请开代理。
 
 打开[搜狗词库](https://pinyin.sogou.com/dict/cate/index/167?rf=dictindex&pos=dict_rcmd)下载 `.scel` 文件。
 
