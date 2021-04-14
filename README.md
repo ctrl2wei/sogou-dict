@@ -64,4 +64,4 @@ use_preset_vocabulary: false
 
 ---
 
-延伸：[Rime 鼠须管朙月拼音·简化字配置方案](https://github.com/liuour/rime)
+延伸：[Rime 鼠须管朙月拼音·简化字配置方案](https://github.com/maomiui/rime)
